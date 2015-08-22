@@ -1,0 +1,5 @@
+*
+!/.functions
+!/.functions/npm.sh
+!/.gitignore.d
+!/.gitignore.d/functions
